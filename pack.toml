@@ -1,0 +1,13 @@
+name = "SYNDr0m-Inc"
+author = "Kaboufl"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "85df52a5d5cd01b9872ec3613843f6ce451d28e6513fab7297f49557cf516e97"
+
+[versions]
+forge = "10.13.0.1150"
+minecraft = "1.7.10"

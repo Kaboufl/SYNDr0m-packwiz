@@ -1,0 +1,101 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "a348e88e11670e8ff2c72667faada73afef3a38280ce388a0039ae900fa01c48"
+metafile = true
+
+[[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "9313e9fc813284ef7df39b84b60716d4fb963961c623fd3061d7ce7e45330abd"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "9177b1779ec85c0844251d374cd48f04b6babd11f770f2d1848dd0634d5a29bc"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
+metafile = true
+
+[[files]]
+file = "mods/codechickencore.pw.toml"
+hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-anchor-59-0-3.pw.toml"
+hash = "516318bb97bd7e62bdedcfe4dd13f9a15b1d2764c32e9cb9be474c7067269b84"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "47fe58c820956d00c310a4e76f0a4dd3c38c2d17e7b0ceedf9a8ff1faa97dbef"
+metafile = true
+
+[[files]]
+file = "mods/ender-io.pw.toml"
+hash = "3bb5afd049587fdba49540978a5549d7f2f0ad1bb0e6b871ba8620108ae494af"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage.pw.toml"
+hash = "a7aefd8489c8363fe076ca66623dc7a6f0ee46502d9942d1b292da3bcae2c00a"
+metafile = true
+
+[[files]]
+file = "mods/endercore.pw.toml"
+hash = "e25f9012d3ed5598987e338294aa8893c93db885069fa7edd5daa89789907d35"
+metafile = true
+
+[[files]]
+file = "mods/forge-backpacks.pw.toml"
+hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "9fdb47ec551d7019502d5c94dee80b3f45361cf2df6070fe93476513d1f1cefe"
+metafile = true
+
+[[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "137a079541ded5cd399812ebc2331aa3b69aacf181389676297b591b77da553c"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "53c2f406ff57d75dfa543e622ebffa8a803d407553f99be40de53649fec1f4e0"
+metafile = true
+
+[[files]]
+file = "mods/modular-powersuits.pw.toml"
+hash = "2c20b6e0c5b00d176127f5689f830a2cce8be840340e61cdbb9d988cc4bce544"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "7b19fb2ec0270e2705af2419239120cbf3eb9116982e8f18c2ee99356a87d201"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "df50657f40e3b77b110e019f6f2b1d010468ac5f0a26f807bae7258e9951d06b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "52c5a415a7bc071332ef8c791d4b97910cfba93c527c9f8aabfc05af63d30321"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "1f6caf1cab0746b0257bef0d6a04ffa695dc84b0f94e5989979b0ff0404fd6cf"
+metafile = true
