@@ -11,13 +11,6 @@ Bienvenue sur le repo du modpack de mon serveur
 - [Installation](#Installation)
 - [Liste des mods](#Mods)
 
-
-## Installation
-
-Vous pouvez faire votre propre modpack via packwiz et son outil de création de modpack. Pour procéder, veuillez suivre la documentation de packwiz :
-
-> [packwiz-docs](https://packwiz.infra.link/tutorials/installing/packwiz-installer/)
-
 ## Connexion
 
 Le serveur est configuré pour s'allumer dès qu'il reçoit une requête d'un client minecraft. Plus spécifiquement la requête doit contenir :
@@ -26,6 +19,11 @@ Le serveur est configuré pour s'allumer dès qu'il reçoit une requête d'un cl
 
 Il met un peu de temps pour s'allumer. Si vous avez un problème, contactez moi sur discord
 
+## Installation
+
+Vous pouvez faire votre propre modpack via packwiz et son outil de création de modpack. Pour procéder, veuillez suivre la documentation de packwiz :
+
+> [packwiz-docs](https://packwiz.infra.link/tutorials/installing/packwiz-installer/)
 
 ### Option 1 : Installer le modpack via MultiMC
 
