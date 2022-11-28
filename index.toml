@@ -61,6 +61,11 @@ hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
 metafile = true
 
 [[files]]
+file = "mods/immibis-core.pw.toml"
+hash = "54e6c99ffa29ca724abaffe9e1d7c6ddbd094c6f289c74ae8338fc041a0b05c5"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "9fdb47ec551d7019502d5c94dee80b3f45361cf2df6070fe93476513d1f1cefe"
 metafile = true
