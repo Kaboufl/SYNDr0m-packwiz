@@ -6,7 +6,7 @@ Bienvenue sur le repo du modpack de mon serveur
 
 > mc.syndr0m.fr
 
-## Table of Contents
+## Sommaire
 
 - [Installation](#Installation)
 - [Liste des mods](#Mods)
