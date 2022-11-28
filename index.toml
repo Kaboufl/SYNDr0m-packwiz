@@ -86,6 +86,11 @@ hash = "2c20b6e0c5b00d176127f5689f830a2cce8be840340e61cdbb9d988cc4bce544"
 metafile = true
 
 [[files]]
+file = "mods/numina.pw.toml"
+hash = "21aa3e50b4f6bbfba88cdb57db058b1bc1aaadc816ffe0304d64575868750340"
+metafile = true
+
+[[files]]
 file = "mods/thermal-dynamics.pw.toml"
 hash = "7b19fb2ec0270e2705af2419239120cbf3eb9116982e8f18c2ee99356a87d201"
 metafile = true
