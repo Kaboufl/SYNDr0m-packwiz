@@ -101,6 +101,11 @@ hash = "53c2f406ff57d75dfa543e622ebffa8a803d407553f99be40de53649fec1f4e0"
 metafile = true
 
 [[files]]
+file = "mods/micdoodle-core.pw.toml"
+hash = "59caa55176faa428c09d29fc1a3af72435b5209700bd2274df60846b853bef52"
+metafile = true
+
+[[files]]
 file = "mods/modular-powersuits.pw.toml"
 hash = "2c20b6e0c5b00d176127f5689f830a2cce8be840340e61cdbb9d988cc4bce544"
 metafile = true
