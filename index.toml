@@ -6,6 +6,11 @@ hash = "a348e88e11670e8ff2c72667faada73afef3a38280ce388a0039ae900fa01c48"
 metafile = true
 
 [[files]]
+file = "mods/big-reactors.pw.toml"
+hash = "317d58f790be0d2fcf3fc1c682c293b1ef9e18f1aed616f2dc029fd311590c37"
+metafile = true
+
+[[files]]
 file = "mods/brandons-core.pw.toml"
 hash = "9313e9fc813284ef7df39b84b60716d4fb963961c623fd3061d7ce7e45330abd"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
+metafile = true
+
+[[files]]
+file = "mods/computercraft.pw.toml"
+hash = "a6d69db5937964e1b895382deb25b9dcd500cf48e78debf3a5b279556a6d7f24"
 metafile = true
 
 [[files]]
@@ -58,6 +68,16 @@ metafile = true
 [[files]]
 file = "mods/forge-backpacks.pw.toml"
 hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
+metafile = true
+
+[[files]]
+file = "mods/galacticraft-core.pw.toml"
+hash = "6dbd63dbc39e6acef401f125c629a8ffc45101307f0a2078029f4590299a1fcb"
+metafile = true
+
+[[files]]
+file = "mods/galacticraft-planets.pw.toml"
+hash = "887f986261442cdb1952f3c296834c4918c09e2c562a95e3b6ed7bd3ee2d9237"
 metafile = true
 
 [[files]]
@@ -107,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "1f6caf1cab0746b0257bef0d6a04ffa695dc84b0f94e5989979b0ff0404fd6cf"
+hash = "db6da1526288c5586f147f9e67b711e3ef68fde516d68ac15da03dc32bdb6f60"
 metafile = true
 
 [[files]]
