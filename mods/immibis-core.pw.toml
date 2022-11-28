@@ -1,0 +1,13 @@
+name = "immibis Core"
+filename = "immibis-core-59.1.4.jar"
+side = "both"
+
+[download]
+
+url = "http://immibis.com/mcmoddl/files/immibis-core-59.1.4.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+
+hash-format = "sha256"
+hash = "20dda08ee51aa1f88aa208e7fb9a959fb5a7852071c5e023e96c0cc7949d7051"
