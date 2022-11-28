@@ -104,3 +104,7 @@ metafile = true
 file = "mods/tinkers-construct.pw.toml"
 hash = "1f6caf1cab0746b0257bef0d6a04ffa695dc84b0f94e5989979b0ff0404fd6cf"
 metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
